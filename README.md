@@ -1,1 +1,1 @@
-Website URL: https://jagjeet-dhuna.github.io/mywebsite/
+Website URL: https://jagjeet-dhuna.github.io/myWebsite/
